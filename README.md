@@ -1,4 +1,4 @@
-# SOC Portfolio - Anderson
+# SOC/DFIR Portfolio - Anderson
 ¡Hola! Soy Anderson, entusiasta de la ciberseguridad especializado en herramientas de reconocimiento, automatización con Bash y análisis en entornos SOC. Este portafolio reúne mis practicas técnicas, configuraciones, scripts y documentación orientada al rol de Analista SOC Junior.
 
 ##    Objetivos 
