@@ -6,7 +6,7 @@
 - Practicar detección y respuesta ante incidentes
 - Automatizar análisis con Bash y herramientas DNS
 - Documentar prácticas con SIEM, Wireshark, Burp Suite, etc.
-- Preparar certificaciones como CompTIA Security+ y CEH
+- Preparar certificaciones como CompTIA Security+ y BTL1
 
   ## Contenido
 
